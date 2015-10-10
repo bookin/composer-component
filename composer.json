@@ -1,5 +1,5 @@
 {
-    "name": "bookin/composer",
+    "name": "bookin/yii2-composer-web",
     "description": "Yii2 component for composer to create web interface",
     "type": "yii2-extension",
     "require": {
